@@ -2,9 +2,7 @@
 
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/alex-harral-723a60184/" target="_blank"> aharral09 </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alex-harral-723a60184/)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/aharral09)
+### [Check out my GitLab instead, I have moved most of my project over there. I wanted to support GitLab's dedication to the open source community](https://gitlab.com/aharral09)
 
 ### Hola, I'm Alex Harral 👋
 
